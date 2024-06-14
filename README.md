@@ -1,6 +1,7 @@
-# Bem-vindo ao Meu GitHub!
+# Bem-vindo ao Meu GitHub! 👨🏽‍💻🤟🏽
 
-Olá! Eu sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará alguns dos meus projetos e contribuições.
+Olá! Eu sou um desenvolvedor em aprendizado, apaixonado por tecnologia e programação. Aqui você encontrará alguns dos meus projetos e contribuições que criei duarante meus estudos e ao decorrer
+da minha carreira como Dev.
 
 ## Tecnologias
 
@@ -14,11 +15,11 @@ Olá! Eu sou um desenvolvedor apaixonado por tecnologia e programação. Aqui vo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomello94&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projetos de estudos em Destaque
+## Projetos criados para estudos.
 
 Aqui estão alguns dos meus projetos criados em estudosmais recentes:
 
-- [![Projeto/Estudos](https://via.placeholder.com/468x60?text=Projeto+de+Estudos)](https://github.com/caiomello94/projeto1)
+- [![Projeto/Estudos](https://via.placeholder.com/468x60?text=Projeto+de+Estudos)](https://github.com/caiomello94/AulasRuby)
 
 ## Contato
 
