@@ -14,18 +14,14 @@ Olá! Eu sou um desenvolvedor apaixonado por tecnologia e programação. Aqui vo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomello94&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projetos em Destaque
+## Projetos de estudos em Destaque
 
-Aqui estão alguns dos meus projetos mais recentes:
+Aqui estão alguns dos meus projetos criados em estudosmais recentes:
 
-- [Projeto 1](https://github.com/caiomello94/projeto1)
-- [Projeto 2](https://github.com/caiomello94/projeto2)
-- [Projeto 3](https://github.com/caiomello94/projeto3)
+- [Projeto/Estudos](https://github.com/caiomello94/projeto1)
 
-## Contato
-
-- [LinkedIn](https://www.linkedin.com/in/caio-mello-482501b5/)
-- [Email](caio-mello94@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-mello-482501b5/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:caio-mello94@hotmail.com)
 
 ---
 
