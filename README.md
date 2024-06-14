@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu GitHub! 👨🏽‍💻🤟🏽
 
-Olá! Eu sou um desenvolvedor em aprendizado, apaixonado por tecnologia e programação. Aqui você encontrará alguns dos meus projetos e contribuições que criei duarante meus estudos e ao decorrer
+Olá! Eu sou um Software Engineer Jr, apaixonado por tecnologia e programação. Aqui você encontrará alguns dos meus projetos e contribuições que criei duarante meus estudos e ao decorrer
 da minha carreira como Dev.
 
 ## Tecnologias
