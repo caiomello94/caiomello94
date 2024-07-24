@@ -7,6 +7,7 @@ Formado em Sistemas de informação, atualmente um Software Developer Jr, apaixo
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Rails](https://camo.githubusercontent.com/1ef2adc303bdc7cba3d779f0e8d56c4a9195c6536407dade160bc271fbc187d9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7261696c732f7261696c732d706c61696e2d776f72646d61726b2e737667)
 
 ## Meus Stats
 
