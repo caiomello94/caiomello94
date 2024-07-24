@@ -16,9 +16,9 @@ Formado em Sistemas de informação, atualmente um Software Developer Jr, apaixo
 
 ## Projetos criados para estudos.
 
-Aqui estão alguns dos meus projetos criados em estudosmais recentes:
+Aqui estão alguns dos meus projetos criados em estudos mais recentes:
 
-- [![Projeto/Estudos](https://via.placeholder.com/468x60?text=Projeto+de+Estudos)](https://github.com/caiomello94/AulasRuby)
+- [![Projetos/Estudos](https://via.placeholder.com/468x60?text=Projeto+de+Estudos)](https://github.com/caiomello94/AulasRuby)
 
 ## Contato
 
