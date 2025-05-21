@@ -1,6 +1,9 @@
 # Bem-vindo ao Meu GitHub! 👨🏽‍💻🤟🏽
 
-Formado em Sistemas de informação, atualmente um Full Stack Developer Jr, Ruby on Rails, apaixonado por tecnologia e programação. Aqui você encontrará alguns dos meus projetos e contribuições que criei duarante meus estudos e ao decorrer da minha carreira como Dev.
+Full Stack Developer ![image](https://github.com/user-attachments/assets/050819e7-7982-4cbb-a5db-b27616b3f3de)
+
+Formado em Sistemas de informação 📖
+
 
 ## Tecnologias
 
